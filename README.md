@@ -68,7 +68,89 @@ It includes **sample data inserts** and a wide range of **SQL queries** demonstr
 - Earliest & latest order dates  
 - Total orders per customer using `COUNT OVER`  
 - Product price ranking using `RANK()`  
-- Ranking within each category using `PARTITION BY`  
+- Ranking within each category using `PARTITION BY`
+- Perfect — let’s add **code snippets with sample outputs** to your README so it looks more complete and professional. Here are some ready‑to‑use examples based on your *Sales Analytics* project:
+
+---
+
+## 💻 Example SQL Queries & Results
+
+### 1. Distinct Cities from Customers
+```sql
+SELECT DISTINCT city FROM Customers;
+```
+**Result:**
+| city       |
+|------------|
+| Chennai    |
+| Bangalore  |
+| Hyderabad  |
+| Mumbai     |
+| Delhi      |
+| Kochi      |
+| Pune       |
+
+---
+
+### 2. Products Priced Above ₹10,000
+```sql
+SELECT name, category, price FROM Products WHERE price > 10000;
+```
+**Result:**
+| name       | category     | price   |
+|------------|--------------|---------|
+| Laptop     | Electronics  | 55000   |
+| Sofa       | Furniture    | 25000   |
+| Smartphone | Electronics  | 30000   |
+
+---
+
+### 3. Average Product Price per Category
+```sql
+SELECT category, AVG(price) AS avg_price FROM Products GROUP BY category;
+```
+**Result:**
+| category     | avg_price |
+|--------------|-----------|
+| Electronics  | 28,500    |
+| Furniture    | 18,200    |
+
+---
+
+### 4. Total Orders per Customer (Window Function)
+```sql
+SELECT customer_id, COUNT(*) OVER(PARTITION BY customer_id) AS total_orders
+FROM Orders;
+```
+**Result:**
+| customer_id | total_orders |
+|-------------|--------------|
+| C001        | 5            |
+| C002        | 3            |
+| C003        | 7            |
+
+---
+
+### 5. Ranking Products by Price (Global & Category)
+```sql
+SELECT name, category,
+       RANK() OVER(ORDER BY price DESC) AS rank_global,
+       RANK() OVER(PARTITION BY category ORDER BY price DESC) AS rank_category
+FROM Products;
+```
+**Result:**
+| name       | category     | rank_global | rank_category |
+|------------|--------------|-------------|---------------|
+| Laptop     | Electronics  | 1           | 1             |
+| Smartphone | Electronics  | 2           | 2             |
+| Sofa       | Furniture    | 3           | 1             |
+| Chair      | Furniture    | 4           | 2             |
+
+---
+
+✅ These **code + result blocks** make your README much more engaging and portfolio‑ready.  
+
+Would you like me to also prepare a **sample ER diagram screenshot placeholder section** so recruiters can visually see the schema relationships?
 
 ---
 
