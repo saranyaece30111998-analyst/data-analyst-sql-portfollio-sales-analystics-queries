@@ -78,9 +78,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ---
 
-### 7. JOINs
-*(Orders with customer names, LEFT JOIN, RIGHT JOIN, etc.)*  
-📸 Example: `screenshots/orders_with_customers.png`
+###  JOINs
+ 
+
 
 ---
 
