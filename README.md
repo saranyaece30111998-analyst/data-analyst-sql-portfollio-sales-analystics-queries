@@ -60,12 +60,12 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 
 ---
 
-### 4. ORDER BY & LIMIT
+###  ORDER BY & LIMIT
 
 
 ---
 
-### 5. Aggregate Functions
+###  Aggregate Functions
 
 ```sql
 SELECT COUNT(*) AS TotalCustomers FROM Customers;
