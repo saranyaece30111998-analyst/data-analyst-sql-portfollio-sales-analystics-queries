@@ -99,9 +99,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ---
 
-### 11. Subqueries (Single, Multi, Correlated)
-*(Customers in same city as Arjun Kumar, products > average price, etc.)*  
-📸 Example: `screenshots/subquery_same_city.png`
+###  Subqueries (Single, Multi, Correlated)
+
 
 ---
 
