@@ -156,10 +156,6 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ## 🚀 How to Use
 1. Clone the repository.  
-2. Run queries on the **Sales_Analytics** database.  
-3. Save query results as screenshots (`.png`) inside the `/screenshots` folder.  
-4. Replace placeholders in README with actual screenshots.  
-
----
+2. Run queries on the **Sales_Analytics** database. 
 
 
