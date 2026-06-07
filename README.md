@@ -46,7 +46,7 @@ SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
 ```
 
 
-**5. Show product name and price after adding a 10% tax.**  
+** 5. Show product name and price after adding a 10% tax.**  
 ```sql
 SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ```
@@ -84,9 +84,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ---
 
-### 8. Built‑in Functions + Aggregation
-*(Total sales amount, top 5 customers, earliest/latest order date, etc.)*  
-📸 Example: `screenshots/total_sales_per_order.png`
+### Built‑in Functions + Aggregation
+
 
 ---
 
