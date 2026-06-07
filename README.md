@@ -128,13 +128,6 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 *(Orders with customer names, LEFT JOIN, RIGHT JOIN, etc.)*  
 📸 Example: `screenshots/orders_with_customers.png`
 
----
-
-### 8. Built‑in Functions + Aggregation
-*(Total sales amount, top 5 customers, earliest/latest order date, etc.)*  
-📸 Example: `screenshots/total_sales_per_order.png`
-
----
 
 
 
