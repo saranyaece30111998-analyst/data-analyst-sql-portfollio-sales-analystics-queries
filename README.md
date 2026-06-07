@@ -125,13 +125,6 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 
 
-### 2. SELECT + ALIAS (AS)
-**Q3. Display customer names and email IDs renamed as Customer_Name and Email_ID.**  
-```sql
-SELECT CustomerName AS Customer_Name, Email AS Email_ID FROM Customers;
-```
-📸 *Screenshot:* `screenshots/customer_email_alias.png`
-
 **Q4. Show product name, price, and (Price × 2) as DoublePrice.**  
 ```sql
 SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
