@@ -140,10 +140,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 *(Ranking products, running totals, lag/lead examples, etc.)*  
 📸 Example: `screenshots/product_price_rank.png`
 
----
 
-### 10. Date & Time Functions
-*(Orders in January 2025, week-wise totals, day names, etc.)*  
 
 
 
