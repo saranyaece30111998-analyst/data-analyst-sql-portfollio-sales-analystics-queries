@@ -123,13 +123,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 
- **Q2. Retrieve distinct product categories from Products.**  
-```sql
-SELECT DISTINCT Category FROM Products;
-```
-📸 *Screenshot:* `screenshots/distinct_categories.png`
 
----
 
 ### 2. SELECT + ALIAS (AS)
 **Q3. Display customer names and email IDs renamed as Customer_Name and Email_ID.**  
