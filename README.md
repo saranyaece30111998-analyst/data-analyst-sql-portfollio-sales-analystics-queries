@@ -2,7 +2,7 @@
 
 ---
 
-# 📊 Sales_Analytics SQL Query Bank
+# 📊 data-analyst-sql-portfollio-sales-analystics-queries
 
 This repository contains a comprehensive set of SQL queries for the **Sales_Analytics** database.  
 It covers **fundamental to advanced SQL concepts** with placeholders for screenshots of query results.
