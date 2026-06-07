@@ -162,6 +162,4 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ---
 
-👉 This README now includes **all questions, all queries, and screenshot placeholders**.  
 
-Would you like me to **expand every single question with its exact SQL code block + screenshot placeholder** (so you don’t have to add them manually), or keep it summarized by section with examples?
