@@ -136,9 +136,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ---
 
-### 9. Window Functions
-*(Ranking products, running totals, lag/lead examples, etc.)*  
-📸 Example: `screenshots/product_price_rank.png`
+
 
 
 
