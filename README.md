@@ -17,70 +17,64 @@ It covers **fundamental to advanced SQL concepts** with placeholders for screens
 
 ---
 
-## ✅ Queries with Screenshots
 
-### 1. SELECT + DISTINCT
-**Q1. List all distinct cities where customers live.**  
+
+###  SELECT + DISTINCT
+1. List all distinct cities where customers live.**  
 ```sql
 SELECT DISTINCT City FROM Customers;
 ```
-📸 *Screenshot:* `screenshots/distinct_cities.png`
 
-**Q2. Retrieve distinct product categories from Products.**  
+
+2. Retrieve distinct product categories from Products.**  
 ```sql
 SELECT DISTINCT Category FROM Products;
 ```
-📸 *Screenshot:* `screenshots/distinct_categories.png`
 
 ---
 
-### 2. SELECT + ALIAS (AS)
-**Q3. Display customer names and email IDs renamed as Customer_Name and Email_ID.**  
+###  SELECT + ALIAS (AS)
+3. Display customer names and email IDs renamed as Customer_Name and Email_ID.**  
 ```sql
 SELECT CustomerName AS Customer_Name, Email AS Email_ID FROM Customers;
 ```
-📸 *Screenshot:* `screenshots/customer_email_alias.png`
 
-**Q4. Show product name, price, and (Price × 2) as DoublePrice.**  
+
+** 4. Show product name, price, and (Price × 2) as DoublePrice.**  
 ```sql
 SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
 ```
-📸 *Screenshot:* `screenshots/double_price.png`
 
-**Q5. Show product name and price after adding a 10% tax.**  
+
+**5. Show product name and price after adding a 10% tax.**  
 ```sql
 SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ```
-📸 *Screenshot:* `screenshots/price_with_tax.png`
+
 
 ---
 
-### 3. WHERE Clause with Operators
-*(Hyderabad customers, products > 10,000, orders after 2025-01-12, etc.)*  
-Each query has its own screenshot placeholder, e.g.:  
-📸 `screenshots/customers_hyderabad.png`  
-📸 `screenshots/products_above_10000.png`  
+###  WHERE Clause with Operators
+
+ 
 
 ---
 
 ### 4. ORDER BY & LIMIT
-*(Top 3 products, sorted customers, etc.)*  
-📸 Example: `screenshots/top3_products.png`
+
 
 ---
 
 ### 5. Aggregate Functions
-**Q8. Find the total number of customers.**  
+
 ```sql
 SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ```
-📸 *Screenshot:* `screenshots/total_customers.png`
 
 ---
 
-### 6. GROUP BY & HAVING
-*(Customer count per city, gender grouping, etc.)*  
-📸 Example: `screenshots/customers_per_city.png`
+###  GROUP BY & HAVING
+
 
 ---
 
