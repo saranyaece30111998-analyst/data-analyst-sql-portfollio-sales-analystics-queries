@@ -123,14 +123,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 
- 1. SELECT + DISTINCT
-**Q1. List all distinct cities where customers live.**  
-```sql
-SELECT DISTINCT City FROM Customers;
-```
-📸 *Screenshot:* `screenshots/distinct_cities.png`
-
-**Q2. Retrieve distinct product categories from Products.**  
+ **Q2. Retrieve distinct product categories from Products.**  
 ```sql
 SELECT DISTINCT Category FROM Products;
 ```
