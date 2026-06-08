@@ -97,7 +97,9 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ** 18. Show the number of customers in each city and order the result by customer count DESC.
 - <img width="1082" height="527" alt="Screenshot 2026-06-06 231410" src="https://github.com/user-attachments/assets/3afd4d7e-6a23-49f9-8ea9-7ff0de15ca3a" />
 
-19. Retrieve customers in (‘Chennai’, ‘Pune’, ‘Hyderabad’) and sort by name.
+ ** 19. Retrieve customers in (‘Chennai’, ‘Pune’, ‘Hyderabad’) and sort by name.
+ - <img width="966" height="480" alt="Screenshot 2026-06-06 231436" src="https://github.com/user-attachments/assets/7056e683-52e3-4a1a-89ec-5949f896497c" />
+
 20. Retrieve customers in given cities, display City + CustomerName, sorted by city and name.
 21. List customers whose name starts with ‘A’ and sort by CustomerID.
 
