@@ -40,6 +40,7 @@ SELECT DISTINCT Category FROM Products;
 ```sql
 SELECT CustomerName AS Customer_Name, Email AS Email_ID FROM Customers;
 ```
+<img width="646" height="552" alt="Screenshot 2026-06-06 230354" src="https://github.com/user-attachments/assets/1056287b-5a3e-448c-9242-0cf795ec6e85" />
 
 
 ** 4. Show product name, price, and (Price × 2) as DoublePrice.**  
