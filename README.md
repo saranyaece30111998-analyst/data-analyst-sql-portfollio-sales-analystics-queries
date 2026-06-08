@@ -31,6 +31,7 @@ SELECT DISTINCT City FROM Customers;
 ```sql
 SELECT DISTINCT Category FROM Products;
 ```
+<img width="825" height="257" alt="Screenshot 2026-06-06 230317" src="https://github.com/user-attachments/assets/b0ef4399-3c90-4c8b-83a5-6446e3bd35e0" />
 
 ---
 
