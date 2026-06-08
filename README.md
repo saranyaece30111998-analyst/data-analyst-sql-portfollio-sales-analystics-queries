@@ -66,6 +66,8 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 - <img width="647" height="302" alt="Screenshot 2026-06-06 230644" src="https://github.com/user-attachments/assets/278e8407-96b7-449a-8f85-1276067ad564" />
 ** 8. List all orders placed after 2025-01-12.
 - <img width="667" height="516" alt="Screenshot 2026-06-06 230726" src="https://github.com/user-attachments/assets/4371e577-8828-4cb8-8590-4ad19e25e99d" />
+** 9. Find products whose price is NOT equal to 1500.
+- <img width="452" height="437" alt="Screenshot 2026-06-06 230810" src="https://github.com/user-attachments/assets/b5fe2c93-9644-4cc6-ad55-307d2289fafa" />
 
 ---
 
