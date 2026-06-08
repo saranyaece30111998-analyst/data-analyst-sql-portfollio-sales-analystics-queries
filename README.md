@@ -70,6 +70,8 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 - <img width="452" height="437" alt="Screenshot 2026-06-06 230810" src="https://github.com/user-attachments/assets/b5fe2c93-9644-4cc6-ad55-307d2289fafa" />
 ** 10. Find customers whose Email is NULL.
 - <img width="576" height="245" alt="Screenshot 2026-06-06 230848" src="https://github.com/user-attachments/assets/6555ead6-d59b-4946-9935-4ef30767f5bd" />
+** 11. List all orders where quantity is NOT NULL.
+  - <img width="720" height="493" alt="Screenshot 2026-06-06 230922" src="https://github.com/user-attachments/assets/ee913ffc-7c44-43a8-a979-fdfb64bc4094" />
 
 
 ###  ORDER BY & LIMIT
