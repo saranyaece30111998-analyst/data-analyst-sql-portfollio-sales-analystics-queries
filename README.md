@@ -60,9 +60,9 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ---
 
 ###  WHERE Clause with Operators
-6. Find all customers who live in Hyderabad.
+** 6. Find all customers who live in Hyderabad.
  <img width="635" height="328" alt="Screenshot 2026-06-06 230615" src="https://github.com/user-attachments/assets/561b76fd-6725-4862-abd2-b4ffff34164b" />
-7. Show all products priced above 10,000.
+** 7. Show all products priced above 10,000.
 <img width="647" height="302" alt="Screenshot 2026-06-06 230644" src="https://github.com/user-attachments/assets/278e8407-96b7-449a-8f85-1276067ad564" />
 
 ---
