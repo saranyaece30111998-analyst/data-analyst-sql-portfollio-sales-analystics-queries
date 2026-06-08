@@ -75,7 +75,9 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ** 12. List the female customers who live in Chennai.
   - <img width="776" height="560" alt="Screenshot 2026-06-06 231027" src="https://github.com/user-attachments/assets/c59da254-a57f-466d-9191-208edcfce8fe" />
 
-13. Display customers who live in (‘Chennai’, ‘Bangalore’, ‘Hyderabad’).
+** 13. Display customers who live in (‘Chennai’, ‘Bangalore’, ‘Hyderabad’).
+- <img width="842" height="491" alt="Screenshot 2026-06-06 231107" src="https://github.com/user-attachments/assets/d90a9094-2693-4f5e-932a-c27e8dcccbcc" />
+
 14. Show products whose category is NOT IN (‘Electronics’, ‘Furniture’)
 
 
