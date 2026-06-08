@@ -85,6 +85,15 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 
 
 ###  ORDER BY & LIMIT
+** 15. List all customers ordered by their Customer Name in ascending order.
+- <img width="922" height="513" alt="Screenshot 2026-06-06 231219" src="https://github.com/user-attachments/assets/bb50dda0-3134-479b-9d57-bf0aeebbad8e" />
+
+16. Display the top 3 products by price.
+17. List the top 3 most expensive products whose price is > 5,000, ordered by price DESC.
+18. Show the number of customers in each city and order the result by customer count DESC.
+19. Retrieve customers in (‘Chennai’, ‘Pune’, ‘Hyderabad’) and sort by name.
+20. Retrieve customers in given cities, display City + CustomerName, sorted by city and name.
+21. List customers whose name starts with ‘A’ and sort by CustomerID.
 
 
 ---
