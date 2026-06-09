@@ -180,7 +180,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 41.	Display each order with the total number of orders placed by that customer using a window function.
 - <img width="1032" height="555" alt="Screenshot 2026-06-06 233719" src="https://github.com/user-attachments/assets/51cf0419-0834-456b-a158-2355f3276343" />
 
-2.	Show each product with its price and the average price of all products.
+** 42.	Show each product with its price and the average price of all products.
+- <img width="817" height="542" alt="Screenshot 2026-06-06 233846" src="https://github.com/user-attachments/assets/64cc464b-4189-45e8-a5c7-4f3195fbc59e" />
+
 3.	Rank all products based on price from highest to lowest using a window function.
 4.	Display each order with the total quantity ordered by that salesperson.
 5.	Rank salespersons based on the total sales amount they generated.
