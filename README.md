@@ -210,6 +210,12 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 ###  Date & Time Functions
+**51.Find all orders placed in January 2025.
+- <img width="653" height="568" alt="Screenshot 2026-06-06 235320" src="https://github.com/user-attachments/assets/d6ab2b85-5901-431e-a004-199707668aa5" />
+
+**52. List orders week-wise (show week number and total orders).
+**53. Display orders along with the day name (Monday, Tuesday, etc.).
+**54. Extract day name and display total sales amount and quantity per day of week (ordered Monday → Sunday).
 
 
 ---
