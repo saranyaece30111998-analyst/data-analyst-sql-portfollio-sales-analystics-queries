@@ -133,8 +133,11 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="902" height="316" alt="Screenshot 2026-06-06 231916" src="https://github.com/user-attachments/assets/57aa6cda-453e-46c9-8467-82199d35307a" />
 ** 28.Product ID and total quantity sold, but only products where total quantity is between 5 and 10
 - <img width="1147" height="473" alt="Screenshot 2026-06-06 232002" src="https://github.com/user-attachments/assets/d7c46529-e530-4336-a735-713aa38570eb" />
+** 29.Each category and its average price, but only categories where average price is greater than 5000.
+- <img width="1083" height="325" alt="Screenshot 2026-06-06 232034" src="https://github.com/user-attachments/assets/dc67088b-45eb-41a6-8470-897df8c44279" />
 
-- 
+
+ 
 ---
 
 ###  JOINs
