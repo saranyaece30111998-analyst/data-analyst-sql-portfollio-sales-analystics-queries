@@ -271,6 +271,19 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 67.	Find customers who purchased products costing more than 10000.
 - <img width="798" height="543" alt="Screenshot 2026-06-07 001109" src="https://github.com/user-attachments/assets/b62dcacd-ea36-40bd-b235-1d71131266e5" />
 
+### CORRELATED SUBQUERIES
+
+14.	Find customers who have placed at least one order.
+ -<img width="777" height="511" alt="Screenshot 2026-06-07 001445" src="https://github.com/user-attachments/assets/d837d824-cb77-4e8d-9c6e-a2c421946fd6" />
+
+16.	Find customers who have placed more than 2 orders.
+ - <img width="720" height="518" alt="Screenshot 2026-06-07 001540" src="https://github.com/user-attachments/assets/f7f83aba-0f5a-4c96-819f-141e278897fb" />
+
+18.	Find products that have been ordered more than once.
+19.	Find salespersons who have handled more than 3 orders.
+20.	Find customers who have purchased products more expensive than the average product price in that category.
+21.	Find products whose price is greater than the average price of their category.
+22.	Find customers whose total orders are greater than the average number of orders placed by customers.
 
 ________________________________________
 
