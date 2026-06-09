@@ -198,8 +198,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 **48.	Display the next order date for each customer using LEAD() function.
 - <img width="921" height="596" alt="Screenshot 2026-06-06 234443" src="https://github.com/user-attachments/assets/4f9431c4-576f-4c72-b7f9-f3228054d612" />
+** 49.	Calculate the running total of sales amount by order date.
+- <img width="811" height="561" alt="Screenshot 2026-06-06 234537" src="https://github.com/user-attachments/assets/68c627db-c58e-4aad-9899-292cea1f7a54" />
 
-9.	Calculate the running total of sales amount by order date.
 10.	Display the top 3 most expensive products using DENSE_RANK()
 
 
