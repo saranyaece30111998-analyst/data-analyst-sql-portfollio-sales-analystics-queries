@@ -193,7 +193,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 **46.	Show product price ranking within each category using PARTITION BY.
 - <img width="903" height="597" alt="Screenshot 2026-06-06 234234" src="https://github.com/user-attachments/assets/d61853f3-0a7b-4d7b-87c0-8da4b813ce2a" />
 
-7.	Display the previous order date for each customer using LAG() function.
+**47.	Display the previous order date for each customer using LAG() function.
+- <img width="836" height="572" alt="Screenshot 2026-06-06 234339" src="https://github.com/user-attachments/assets/d9f72abc-d768-4c76-8568-f773072ec8f5" />
+
 8.	Display the next order date for each customer using LEAD() function.
 9.	Calculate the running total of sales amount by order date.
 10.	Display the top 3 most expensive products using DENSE_RANK()
