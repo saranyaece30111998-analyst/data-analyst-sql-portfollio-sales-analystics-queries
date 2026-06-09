@@ -141,7 +141,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 ###  JOINs
- 
+ ** 30.1. List all orders along with the customer names.
+ - <img width="810" height="630" alt="Screenshot 2026-06-06 232206" src="https://github.com/user-attachments/assets/99d4c627-a56e-4034-ae31-018d603c5c80" />
+
 
 
 ---
