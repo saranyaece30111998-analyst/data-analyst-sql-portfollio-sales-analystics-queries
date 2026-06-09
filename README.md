@@ -151,7 +151,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="978" height="635" alt="Screenshot 2026-06-06 232757" src="https://github.com/user-attachments/assets/f26bb4bb-b8c8-4f6c-837b-f30a72b9415d" />
 ** 34.Display all orders from ‘Chennai’ customers with the product details.
 - <img width="757" height="552" alt="Screenshot 2026-06-06 232843" src="https://github.com/user-attachments/assets/4296ae8a-bd81-430b-9223-8c155e1dd23b" />
-
+** 35.
 ---
 
 ### Built‑in Functions + Aggregation
