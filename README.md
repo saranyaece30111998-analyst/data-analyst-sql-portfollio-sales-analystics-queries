@@ -157,6 +157,13 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 ### Built‑in Functions + Aggregation
+** 36.Show total sales amount (Price × Quantity) for each order.
+- <img width="735" height="605" alt="Screenshot 2026-06-06 233120" src="https://github.com/user-attachments/assets/336097a1-a9a2-4e86-bb8b-29431fd0fb0f" />
+
+8. Find the top 5 customers by total purchase amount.
+9. Show each Salesperson’s region and the total sales value.
+10. Find the most sold product with total quantity.
+11. Show the earliest (minimum) and latest (maximum) order date.
 
 
 ---
