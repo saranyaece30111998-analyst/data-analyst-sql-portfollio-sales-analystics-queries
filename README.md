@@ -233,11 +233,15 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 -<img width="732" height="485" alt="Screenshot 2026-06-06 235917" src="https://github.com/user-attachments/assets/fe34a243-3f66-494d-b249-b38289d6c49d" />
     
 56.	Find products that are more expensive than the average product price.
+- <img width="887" height="445" alt="Screenshot 2026-06-07 000014" src="https://github.com/user-attachments/assets/4e2c9338-cc37-47e9-9a49-cdbf31cd9960" />
+
 57.	Find products belonging to the same category as 'Laptop'.
-58.	Find customers who have placed more orders than the customer with CustomerID = 5.
-59.	Find products that are priced higher than the product with ProductID = 3.
-60.	Find customers who placed an order on the same date as OrderID = 1.
-61.	Find the salesperson whose target amount is higher than the average target.
+- <img width="642" height="553" alt="Screenshot 2026-06-07 000111" src="https://github.com/user-attachments/assets/a539468c-cc4e-412e-b13e-efeb96e1aa0d" />
+
+59.	Find customers who have placed more orders than the customer with CustomerID = 5.
+60.	Find products that are priced higher than the product with ProductID = 3.
+61.	Find customers who placed an order on the same date as OrderID = 1.
+62.	Find the salesperson whose target amount is higher than the average target.
 ________________________________________
 
 
