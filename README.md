@@ -126,9 +126,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 24.Show the total number of customers in each gender group.
 - <img width="771" height="297" alt="Screenshot 2026-06-06 231707" src="https://github.com/user-attachments/assets/3994d2df-b6c9-4b55-9047-bb49e53db845" />
 ** 25.Display City and Customer Name grouped by city. 
-  -<img width="722" height="506" alt="Screenshot 2026-06-06 231741" src="https://github.com/user-attachments/assets/0a82cb96-4967-4bb3-b237-8cecc17df9f2" />
+-<img width="722" height="506" alt="Screenshot 2026-06-06 231741" src="https://github.com/user-attachments/assets/0a82cb96-4967-4bb3-b237-8cecc17df9f2" />
 ** 26.Show only those cities where customer count is greater than 2.
-  - <img width="802" height="355" alt="Screenshot 2026-06-06 231846" src="https://github.com/user-attachments/assets/a6c3ac95-6615-46c5-bde2-c41f7858a93d" />
+- <img width="802" height="355" alt="Screenshot 2026-06-06 231846" src="https://github.com/user-attachments/assets/a6c3ac95-6615-46c5-bde2-c41f7858a93d" />
 
 ---
 
