@@ -131,7 +131,10 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="802" height="355" alt="Screenshot 2026-06-06 231846" src="https://github.com/user-attachments/assets/a6c3ac95-6615-46c5-bde2-c41f7858a93d" />
 ** 27.Total orders per customer, but show only customers with more than 3 orders.
 - <img width="902" height="316" alt="Screenshot 2026-06-06 231916" src="https://github.com/user-attachments/assets/57aa6cda-453e-46c9-8467-82199d35307a" />
+** 28.Product ID and total quantity sold, but only products where total quantity is between 5 and 10
+- <img width="1147" height="473" alt="Screenshot 2026-06-06 232002" src="https://github.com/user-attachments/assets/d7c46529-e530-4336-a735-713aa38570eb" />
 
+- 
 ---
 
 ###  JOINs
