@@ -269,6 +269,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
  - <img width="887" height="577" alt="Screenshot 2026-06-07 001033" src="https://github.com/user-attachments/assets/c11f46e5-f2bc-4ae4-b2f3-7d8dce916eac" />
 
 18.	Find customers who purchased products costing more than 10000.
+- <img width="798" height="543" alt="Screenshot 2026-06-07 001109" src="https://github.com/user-attachments/assets/b62dcacd-ea36-40bd-b235-1d71131266e5" />
+
 
 ________________________________________
 
