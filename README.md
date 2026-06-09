@@ -166,7 +166,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 38. Show each Salesperson’s region and the total sales value.
 - <img width="725" height="442" alt="Screenshot 2026-06-06 233302" src="https://github.com/user-attachments/assets/5fd4faa0-43f2-4021-891b-0671b941ba56" />
 
-10. Find the most sold product with total quantity.
+** 39. Find the most sold product with total quantity.
+- <img width="590" height="382" alt="Screenshot 2026-06-06 233359" src="https://github.com/user-attachments/assets/a57b48d8-18ac-4ab1-b4ac-ee0cfbdd1382" />
+
 11. Show the earliest (minimum) and latest (maximum) order date.
 
 
