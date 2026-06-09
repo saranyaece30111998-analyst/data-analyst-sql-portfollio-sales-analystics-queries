@@ -249,6 +249,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="886" height="406" alt="Screenshot 2026-06-07 000424" src="https://github.com/user-attachments/assets/f3eaf2fc-f011-46d8-b37b-ec89fac3c9fa" />
 
 61.	Find the salesperson whose target amount is higher than the average target.
+- <img width="941" height="453" alt="Screenshot 2026-06-07 000511" src="https://github.com/user-attachments/assets/dfe36fbe-75ec-4f76-9c30-1af2ef3eb163" />
+
 ________________________________________
 
 
