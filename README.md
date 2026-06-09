@@ -266,7 +266,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
  - <img width="1041" height="448" alt="Screenshot 2026-06-07 000942" src="https://github.com/user-attachments/assets/e051b8b2-88a9-419f-b751-c4667f97c010" />
 
 16.	Find products whose price is greater than ANY Electronics product.
-17.	Find customers who purchased products costing more than 10000.
+ - <img width="887" height="577" alt="Screenshot 2026-06-07 001033" src="https://github.com/user-attachments/assets/c11f46e5-f2bc-4ae4-b2f3-7d8dce916eac" />
+
+18.	Find customers who purchased products costing more than 10000.
 
 ________________________________________
 
