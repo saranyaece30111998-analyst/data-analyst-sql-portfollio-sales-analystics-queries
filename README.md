@@ -187,7 +187,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 44.	Display each order with the total quantity ordered by that salesperson.
 - <img width="825" height="558" alt="Screenshot 2026-06-06 234039" src="https://github.com/user-attachments/assets/607cf25b-a893-4d88-8c26-80dd6183e5b6" />
 
-5.	Rank salespersons based on the total sales amount they generated.
+**45.	Rank salespersons based on the total sales amount they generated.
+- <img width="787" height="488" alt="Screenshot 2026-06-06 234126" src="https://github.com/user-attachments/assets/0f06cb36-e6b5-414b-92a7-6e74852cabc6" />
+
 6.	Show product price ranking within each category using PARTITION BY.
 7.	Display the previous order date for each customer using LAG() function.
 8.	Display the next order date for each customer using LEAD() function.
