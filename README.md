@@ -251,6 +251,19 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 61.	Find the salesperson whose target amount is higher than the average target.
 - <img width="941" height="453" alt="Screenshot 2026-06-07 000511" src="https://github.com/user-attachments/assets/dfe36fbe-75ec-4f76-9c30-1af2ef3eb163" />
 
+### MULTI ROW SUBQUERIES
+
+8.	Find customers who have ordered any product in the 'Electronics' category.
+- <img width="962" height="542" alt="Screenshot 2026-06-07 000706" src="https://github.com/user-attachments/assets/dbf47af1-8cf7-4262-b646-84c6db947c4b" />
+
+10.	Find products that were ordered by customers from Chennai.
+ - <img width="837" height="492" alt="Screenshot 2026-06-07 000759" src="https://github.com/user-attachments/assets/aa66d4ee-0a72-4199-b14f-381a2abd69f1" />
+
+12.	Find salespersons who handled orders for customers from Bangalore.
+13.	Find products whose price is greater than ALL products in the Furniture category.
+14.	Find products whose price is greater than ANY Electronics product.
+15.	Find customers who purchased products costing more than 10000.
+
 ________________________________________
 
 
