@@ -214,6 +214,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="653" height="568" alt="Screenshot 2026-06-06 235320" src="https://github.com/user-attachments/assets/d6ab2b85-5901-431e-a004-199707668aa5" />
 
 **52. List orders week-wise (show week number and total orders).
+- <img width="763" height="396" alt="Screenshot 2026-06-06 235412" src="https://github.com/user-attachments/assets/bcff9716-72b0-4ab0-af77-0641451cf1a7" />
+
 **53. Display orders along with the day name (Monday, Tuesday, etc.).
 **54. Extract day name and display total sales amount and quantity per day of week (ordered Monday → Sunday).
 
