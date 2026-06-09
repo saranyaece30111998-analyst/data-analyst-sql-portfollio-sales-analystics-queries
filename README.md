@@ -177,6 +177,19 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 ###  Window Functions
+** 41.	Display each order with the total number of orders placed by that customer using a window function.
+- <img width="1032" height="555" alt="Screenshot 2026-06-06 233719" src="https://github.com/user-attachments/assets/51cf0419-0834-456b-a158-2355f3276343" />
+
+2.	Show each product with its price and the average price of all products.
+3.	Rank all products based on price from highest to lowest using a window function.
+4.	Display each order with the total quantity ordered by that salesperson.
+5.	Rank salespersons based on the total sales amount they generated.
+6.	Show product price ranking within each category using PARTITION BY.
+7.	Display the previous order date for each customer using LAG() function.
+8.	Display the next order date for each customer using LEAD() function.
+9.	Calculate the running total of sales amount by order date.
+10.	Display the top 3 most expensive products using DENSE_RANK()
+
 
 
 ---
