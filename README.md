@@ -169,7 +169,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 39. Find the most sold product with total quantity.
 - <img width="590" height="382" alt="Screenshot 2026-06-06 233359" src="https://github.com/user-attachments/assets/a57b48d8-18ac-4ab1-b4ac-ee0cfbdd1382" />
 
-11. Show the earliest (minimum) and latest (maximum) order date.
+** 40. Show the earliest (minimum) and latest (maximum) order date.
+- <img width="751" height="295" alt="Screenshot 2026-06-06 233456" src="https://github.com/user-attachments/assets/000d291f-ec10-42c8-90c8-990ce93b4389" />
+
 
 
 ---
