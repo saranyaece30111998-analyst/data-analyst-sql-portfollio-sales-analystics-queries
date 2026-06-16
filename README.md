@@ -285,7 +285,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 71.	Find salespersons who have handled more than 3 orders.
  - <img width="842" height="582" alt="Screenshot 2026-06-07 001733" src="https://github.com/user-attachments/assets/f11c5053-c8a1-4d29-89a6-8c7c133dd63f" />
 
-22.	Find customers who have purchased products more expensive than the average product price in that category.
+72.	Find customers who have purchased products more expensive than the average product price in that category.
 - <img width="1178" height="638" alt="Screenshot 2026-06-07 001841" src="https://github.com/user-attachments/assets/aa1af903-8e0a-4dc3-ac8f-2366d2446f59" />
 
 24.	Find products whose price is greater than the average price of their category.
