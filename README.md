@@ -282,7 +282,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 70.	Find products that have been ordered more than once.
  - <img width="855" height="510" alt="Screenshot 2026-06-07 001643" src="https://github.com/user-attachments/assets/8093e996-3c95-4cce-be13-15fdabb1aa35" />
 
-20.	Find salespersons who have handled more than 3 orders.
+71.	Find salespersons who have handled more than 3 orders.
  - <img width="842" height="582" alt="Screenshot 2026-06-07 001733" src="https://github.com/user-attachments/assets/f11c5053-c8a1-4d29-89a6-8c7c133dd63f" />
 
 22.	Find customers who have purchased products more expensive than the average product price in that category.
