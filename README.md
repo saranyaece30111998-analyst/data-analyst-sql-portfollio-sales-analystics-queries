@@ -279,7 +279,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 69.	Find customers who have placed more than 2 orders.
  - <img width="720" height="518" alt="Screenshot 2026-06-07 001540" src="https://github.com/user-attachments/assets/f7f83aba-0f5a-4c96-819f-141e278897fb" />
 
-18.	Find products that have been ordered more than once.
+70.	Find products that have been ordered more than once.
  - <img width="855" height="510" alt="Screenshot 2026-06-07 001643" src="https://github.com/user-attachments/assets/8093e996-3c95-4cce-be13-15fdabb1aa35" />
 
 20.	Find salespersons who have handled more than 3 orders.
