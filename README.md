@@ -288,7 +288,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 72.	Find customers who have purchased products more expensive than the average product price in that category.
 - <img width="1178" height="638" alt="Screenshot 2026-06-07 001841" src="https://github.com/user-attachments/assets/aa1af903-8e0a-4dc3-ac8f-2366d2446f59" />
 
-24.	Find products whose price is greater than the average price of their category.
+73.	Find products whose price is greater than the average price of their category.
 - <img width="1047" height="497" alt="Screenshot 2026-06-07 001950" src="https://github.com/user-attachments/assets/3d36ec20-2d5d-4a5e-8f54-443961afc382" />
 
 26.	Find customers whose total orders are greater than the average number of orders placed by customers.
