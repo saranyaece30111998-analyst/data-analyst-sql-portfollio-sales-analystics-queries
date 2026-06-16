@@ -273,7 +273,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ### CORRELATED SUBQUERIES
 
-14.	Find customers who have placed at least one order.
+68.	Find customers who have placed at least one order.
  -<img width="777" height="511" alt="Screenshot 2026-06-07 001445" src="https://github.com/user-attachments/assets/d837d824-cb77-4e8d-9c6e-a2c421946fd6" />
 
 16.	Find customers who have placed more than 2 orders.
