@@ -3,7 +3,7 @@
 # 📊 data-analyst-sql-portfollio-sales-analystics-queries
 ## overview
 
-This**repository** offers a well‑structured collection of SQL queries designed for the **Sales_Analytics database**
+This **repository** offers a well‑structured collection of SQL queries designed for the **Sales_Analytics database**
 . It spans from fundamental to advanced concepts, making it useful for learners and professionals alike. Each query is accompanied by placeholders where screenshots of the results can be added, ensuring the documentation is both practical and visually informative.
 
 ---
